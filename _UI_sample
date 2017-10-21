@@ -92,4 +92,3 @@ closeButton.clicked.connect(window.close)
 
 # show the window
 window.show()
-# clothRunup-U1()
