@@ -72,7 +72,7 @@ layout.addWidget(button)
 button.setFont(font)
 button.setMinimumSize(200, 40)
 button.setMaximumSize(200, 40)
-button.setStyleSheet("background-color: rgb(128,128,128); color: rgb(0,0,0")
+button.setStyleSheet("background-color: rgb(128,128,128); color: rgb(0,0,0)")
 button.clicked.connect(partial(cn.definitionA))
 
 #C button
@@ -81,7 +81,7 @@ layout.addWidget(button)
 button.setFont(font)
 button.setMinimumSize(200, 40)
 button.setMaximumSize(200, 40)
-button.setStyleSheet("background-color: rgb(128,128,128), color: rgb(0,0,0)")
+button.setStyleSheet("background-color: rgb(128,128,128); color: rgb(0,0,0)")
 button.clicked.connect(partial(cn.definitionB,'Adnan'))
 
 # create close button
